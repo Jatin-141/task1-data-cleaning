@@ -20,6 +20,6 @@ Clean and preprocess the raw dataset, which contains missing values, duplicates,
 8702 rows × 12 columns
 
 ## Tools Used
-Python (Pandas), Jupyter Notebook
+Python (Pandas), Jupyter Notebook, and Excel
 
 The dataset is now cleaned and ready for analysis or modeling.
